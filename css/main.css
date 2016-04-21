@@ -1,0 +1,92 @@
+/* Tu CSS va aqui */
+
+header {
+	margin: 15px;
+	font-family: Helvetica;
+}
+.logo{
+	width: 120px;
+	height: 32px;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0 0 0 0;
+	float: right;
+	font-size: 12px;
+	line-height: 14px;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav a {
+	text-decoration: none;
+	padding: 10px 5px;
+	color: gray;
+
+}
+
+.landing{
+	background-color: gray;
+	padding: 60px 10px;
+	font-family: Helvetica;
+}
+h1 { color: white;
+	font-size: 36px;
+
+}
+.landing p {
+	color: white;
+	font-size: 12px;
+	padding: 30px;
+
+}
+.get {
+	height: 140px;
+	width: 180px;
+	background-color:#A4A4A4 ;
+	color: white;
+	font-size: 15px;
+    border-radius: 10px;
+  	padding-top: 15px;
+  	margin-left: 70px;
+  	position: relative;
+}
+h4{
+	text-align: center;
+	margin-bottom: 5px;
+}
+.text {
+	height: 25px;
+	width: 170px;
+	background-color:white;
+	color: gray;
+	font-size: 12px;
+ 	text-align: center;
+ 	margin-left: 5px;
+  	text-align: left;
+}
+.suscribe {
+	height: 25px;
+	width: 170px;
+	background-color:#0080FF;
+	color: white;
+	font-size: 12px;
+ 	text-align: center;
+  	margin: 5px;
+}
+button a{
+  	text-decoration: none;
+  	color: white;
+}
+footer p {
+	color: gray;
+	font-size: 12px;
+	padding-top: 15px;
+}
+
+span {
+	color: blue;
+}
